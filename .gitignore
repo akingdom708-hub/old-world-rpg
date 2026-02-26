@@ -1,0 +1,9 @@
+# Godot 4 .gitignore
+
+# Godot specific files
+.mono/
+.import/
+*.godot/
+*.import/
+# User-specific files
+user_settings/
